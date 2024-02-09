@@ -1,0 +1,42 @@
+Salute, Sir!
+This is
+The Sea Battle!
+Waiting
+your order, sir!
+
+Let us put our
+battleships!
+Choose ship and
+allocate it on
+the battlefield!
+
+This is your
+fleet, sir:
+1.Boats
+2.Trawlers
+3.Destroyers
+4.Flagship
+
+Sir, define orientation
+of your ship!
+Press 1 for vertical
+or 2 for horizontal
+orientation.
+
+Sir! Type LETTER and
+NUMBER of the cell
+where the first
+deck of the ship
+would be.
+
+Sir! We have no
+such ships
+else!
+Press 1 to remove
+last positioned
+ship, sir!
+
+Sir! This quadrant
+is not allowed
+to allocate
+ship, sir! 
